@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a command-line application to manage, view and interact an imaginary company's employee database, using [Node.js](https://nodejs.org/en), [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4), and [MySQL2](https://www.npmjs.com/package/mysql2).
+This is a command-line application to manage, view and interact an imaginary company's employee database, created using [Node.js](https://nodejs.org/en), [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4), and [MySQL2](https://www.npmjs.com/package/mysql2).
 
 ## Walkthrough Video
 This is a command line application, therefore will not be deployed. Here is the [link](https://drive.google.com/file/d/1s6aVixBZvn7HD6kKfANeYX4WII3avUOJ/view) to a walkthrough video that demonstrates the functionality of the app. 
